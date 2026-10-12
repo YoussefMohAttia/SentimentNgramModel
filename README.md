@@ -11,7 +11,7 @@
 
 ## Overview
 
-This repository collects two NLP assignment notebooks focused on sentiment classification with n-gram features. The work moves from language-model and n-gram foundations to supervised classifiers evaluated with standard classification metrics.
+This repository contains two NLP notebooks focused on sentiment classification with n-gram features. The work moves from language-model foundations to supervised classifiers evaluated with standard classification metrics.
 
 ## Notebooks
 
@@ -32,7 +32,7 @@ pip install jupyter numpy scikit-learn matplotlib seaborn
 jupyter notebook
 ```
 
-Run `Part1.ipynb` and `Part2.ipynb` independently from top to bottom. Consult `assignment 1.pdf` for the original task specification.
+Run `Part1.ipynb` and `Part2.ipynb` independently from top to bottom.
 
 ## Author
 
